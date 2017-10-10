@@ -1,5 +1,7 @@
 html {
   font-family: Helvetica, sans-serif;
+  background-image: url(https://image.freepik.com/free-vector/white-rhombus-pattern_1053-249.jpg);
+  text-align:center;
 }
 
 h1,
@@ -8,4 +10,11 @@ h1,
   }
 h3  {
   color: SeaGreen;
+}
+li {
+  text-align: center;
+}
+
+ol  {
+  color:white;
 }
